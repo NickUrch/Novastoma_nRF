@@ -1,0 +1,8 @@
+{
+    "nrf-connect.debugging.bindings": {
+        "${workspaceFolder}/build": "Launch build"
+    },
+    "nrf-connect.applications": [
+        "${workspaceFolder}"
+    ]
+}
